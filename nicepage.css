@@ -34705,7 +34705,6 @@ a.u-link.u-text-hover-grey-90:hover {
     height: 37px;
     width: 37px;
     margin-top: 45px;
-    margin-right: 0;
   }
 
   .u-footer .u-text-1 {
@@ -34715,8 +34714,6 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 @media (max-width: 991px) {
   .u-footer .u-social-icons-1 {
-    height: 37px;
-    width: 37px;
     margin-top: 63px;
     margin-right: auto;
   }
@@ -34741,7 +34738,6 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 @media (max-width: 575px) {
   .u-footer .u-social-icons-1 {
-    height: 37px;
     margin-top: 78px;
   }
 
